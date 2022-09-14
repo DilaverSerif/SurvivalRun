@@ -1,0 +1,1 @@
+public enum Enum_PoolObject{ Empty, Rock, Arrow, Coin, Deer, Spear}
