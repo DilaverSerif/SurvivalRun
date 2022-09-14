@@ -1,4 +1,6 @@
 # SurvivalRun  
 HyperCasual Game
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r5hBzFKf5zw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=r5hBzFKf5zw"><img src="https://img.youtube.com/vi/r5hBzFKf5zw/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
